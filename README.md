@@ -1,3 +1,3 @@
 # Programas em Python :smiley:
 
-Olá! Bem vindo ao meus projetos em Python :wave:
+Olá! Bem vindo. Esses são meus projetos em Python :wave:
